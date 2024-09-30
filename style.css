@@ -1,0 +1,111 @@
+@media only screen and (max-width: 900px) {
+    .s1heading{
+        text-align: center;
+        font-size: 90px;
+    }
+
+    .s1heading2{
+        text-align: center;
+    }
+
+    .s1para{
+        text-align: center;
+    }
+    .learn-more{
+        align-items: center;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .s1car {
+        height: 1px;
+        width: auto;
+        position: absolute;
+        float: right;
+    }
+
+    .s2heading{
+        text-align: center;
+        font-size: 90px;
+    }
+
+    .section1DME{
+        margin-bottom: -150px;
+    }
+
+    .section2Features{
+        width: auto;
+        padding-bottom: 50px;
+    }
+
+    .features-list{
+        padding-top: 80px;
+    }
+
+    body {
+        width: fit-content;
+        height: fit-content;
+    }
+
+    .slideshow-container{
+        width: 200px;
+        height: auto;
+    }
+
+    .features-list{
+        font-size: 20px;
+    }
+
+    .s4heading{
+        font-size: 30px;
+        margin-left: 300px;
+    }
+
+    .s4linkedin{
+        margin-left: 600px;
+        margin-top: 40px;
+        height: 40px;
+        width: auto;
+        position: absolute;
+    }
+
+    .s4insta{
+        margin-left: 670px;
+        margin-top: 40px;
+        height: 40px;
+        width: auto;
+        position: absolute;
+    }
+
+    .s6bookdriver{
+        height: 300px;
+        width: auto;
+        position: absolute;
+        margin-left: 100px;
+    }
+
+    .s3screens{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .s3playstore{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 60px;
+    }
+
+    .s6heading1{
+        font-size: 90px;
+        text-align: center;
+    }
+
+    .s6heading2{
+        font-size: 75px;
+        margin-top: -50px;
+    }
+}
